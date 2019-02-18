@@ -9,7 +9,7 @@ devices
 - Animations doesn’t need to be identical, and its your choice if they are going to be 
 implemented using JS or CSS 
 - ”Submit” button should be added bellow as a part of your design improvisation 
-- Its desirable but not required to use flexbox for the layou 
+- Its desirable but not required to use flexbox for the layout
 - Usage of external plugins is allowed 
 - Usage of CSS frameworks is allowed
 
