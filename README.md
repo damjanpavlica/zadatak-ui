@@ -12,9 +12,15 @@ implemented using JS or CSS
 - Its desirable but not required to use flexbox for the layout
 - Usage of external plugins is allowed 
 - Usage of CSS frameworks is allowed
-
-Bonus:
 - Any custom CSS should should be written is SASS 
 - SASS compilation can be done using webpack, gulp, koala or something else, thats 
 your choice
 
+## Radovi
+
+- https://github.com/jankobugarski/input-zadatak
+- https://github.com/mutko/login-form
+- https://github.com/MilosAksic/UIVezbaGui
+- https://github.com/Andjelka90/kontakt-forma
+- https://github.com/sukhoidragan/UI
+- https://github.com/leutino/vezba-ui
