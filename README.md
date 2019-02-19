@@ -1,5 +1,3 @@
-![](screen.gif)
-
 # Task 1 - UI
 
 Create a form from the url bellow 
