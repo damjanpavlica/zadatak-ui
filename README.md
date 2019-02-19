@@ -1,4 +1,4 @@
-![](screen.png)
+![](screen.gif)
 
 # Task 1 - UI
 
