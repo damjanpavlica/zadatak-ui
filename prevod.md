@@ -1,6 +1,6 @@
 # Zadatak 1 - UI
 
-Napravi obrazac na osnovu dizajna sa ovog linka: 
+Napravi obrazac na osnovu dizajna sa linka: 
 https://dribbble.com/shots/2371603-Form-Flow
 - Samo mobilna verzija je potrebna, mora da izgleda jednako dobro na Androidu i iOS
 - Font Family - Roboto [https://fonts.google.com/specimen/Roboto](https://fonts.google.com/specimen/Roboto)  
